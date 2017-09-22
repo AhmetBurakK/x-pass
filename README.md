@@ -1,2 +1,3 @@
 # x-pass
-Cyrpt The Word
+#Bu script girdiğiniz metini 4 şekilde cyrpt edebilir.
+#İyi Kullanımlar
